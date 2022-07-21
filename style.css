@@ -1,0 +1,47 @@
+body{
+    font-family: 'Barlow', sans-serif;
+    background-color: darkslategrey;
+}
+h3{
+    text-align: center;
+    font-family: barlow;
+    font-weight: thin 100;
+    color: brown;
+    font-style: thin 100;
+    font-size: 50px;
+}
+
+.para{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: barlow;
+    font-weight: semibold 600;
+    font-style: italic;
+   color: white;
+}
+
+.btn{
+    margin-left: 700px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: 60px;
+    color: blueviolet;
+}
+
+.btn:hover{
+    background-color: bisque;
+    color: black;
+    padding: 20px
+}
+
+h3:hover{
+    background-color: burlywood;
+    color: aqua;
+}
+
+.para:hover{
+    background-color: white;
+   color: darkred;
+   padding: 10px;
+}
